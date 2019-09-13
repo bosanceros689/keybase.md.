@@ -1,0 +1,68 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bosanceros689 on github.
+  * I am bosanceros689 (https://keybase.io/bosanceros689) on keybase.
+  * I have a public key ASDFFEsdPVdqGil606x_ba-D5G81B83VRb7Ss5uf1X-pfQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c5144b1d3d576a1a297ad3ac7f6daf83e46f3507cdd545bed2b39b9fd57fa97d0a",
+      "host": "keybase.io",
+      "kid": "0120c5144b1d3d576a1a297ad3ac7f6daf83e46f3507cdd545bed2b39b9fd57fa97d0a",
+      "uid": "eee58916c8b3e545a526fa2c3a560019",
+      "username": "bosanceros689"
+    },
+    "merkle_root": {
+      "ctime": 1568352045,
+      "hash": "8adf04aa84393ca3fcdfcc55f6ac037a3f9a6b4ba7e56b292191eb75f91a74d679627d2fae551217c4a57aaa6660d46d820c87e3b6c58392e093829112fc44e8",
+      "hash_meta": "95ae1cb045669fe1492d908f717d86d76e931bffa584234d91f3b78ff5ef09bf",
+      "seqno": 7100181
+    },
+    "service": {
+      "entropy": "4O1kx2iHGNLZ6u8+338jxrFQ",
+      "name": "github",
+      "username": "bosanceros689"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568352067,
+  "expire_in": 504576000,
+  "prev": "880a98f01f57452a5df906aa165fcdd03ade3906d9ba63cdab6eadedc2867a8f",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASDFFEsdPVdqGil606x_ba-D5G81B83VRb7Ss5uf1X-pfQo](https://keybase.io/bosanceros689), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxRRLHT1XahopetOsf22vg+RvNQfN1UW+0rObn9V/qX0Kp3BheWxvYWTESpcCBMQgiAqY8B9XRSpd+QaqFl/N0DreOQbZumPNq26t7cKGeo/EIJxGA6ScR7XrrGWTpuxPiVCjvATkwCUsUmgTq/lVIvjVAgHCo3NpZ8RAmuuhMRFrSnzoR7FoN1t7mgkzyG6nbDLXqDe/9EeH5fMicQV5CQg2t7+vlTOOWRc2ljejZ4hPJjSpzJkI52ixA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGbYBOz646vYxVcnfBAHxNmNPwkawqZfNH4cWWnwvNWgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/bosanceros689
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id bosanceros689
+```
+	
